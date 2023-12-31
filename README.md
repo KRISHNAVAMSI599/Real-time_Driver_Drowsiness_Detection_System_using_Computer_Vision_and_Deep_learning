@@ -50,6 +50,9 @@ This project is designed to actively monitor a driver's alertness in real-time b
 
 **Screenshots**
 
-<img width="490" alt="Screenshot 2023-12-31 135455" src="https://github.com/KRISHNAVAMSI599/Real-time_Driver_Drowsiness_Detection_System_using_Computer_Vision_and_Deep_learning/assets/138597505/4a88c7f1-ae7f-4da3-9428-209d88cf1891">
-![Screenshot (430)](https://github.com/KRISHNAVAMSI599/Real-time_Driver_Drowsiness_Detection_System_using_Computer_Vision_and_Deep_learning/assets/138597505/ec857d4e-0042-4b3f-b100-e92f382744bc)
-![Screenshot (419)](https://github.com/KRISHNAVAMSI599/Real-time_Driver_Drowsiness_Detection_System_using_Computer_Vision_and_Deep_learning/assets/138597505/129983af-106d-4a73-a297-799a3f6fcec3)
+![Screenshot (429)](https://github.com/KRISHNAVAMSI599/Real-time_Driver_Drowsiness_Detection_System_using_Computer_Vision_and_Deep_learning/assets/138597505/769408c0-52d1-4ef9-bd02-75f7a7c040b3)
+
+<img width="490" alt="Screenshot 2023-12-31 135455" src="https://github.com/KRISHNAVAMSI599/Real-time_Driver_Drowsiness_Detection_System_using_Computer_Vision_and_Deep_learning/assets/138597505/c04c86cc-cce8-4cc1-a2b6-a8f4c27301ed">
+
+![Screenshot (419)](https://github.com/KRISHNAVAMSI599/Real-time_Driver_Drowsiness_Detection_System_using_Computer_Vision_and_Deep_learning/assets/138597505/7aa6a199-959d-439e-8e93-4b40374923f8)
+
